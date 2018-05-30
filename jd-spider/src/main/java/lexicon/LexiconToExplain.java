@@ -12,7 +12,9 @@ import util.Util;
 import baiduhanyu.GetBaiduExplain;
 
 import com.huaban.analysis.jieba.JiebaSegmenter;
-
+/**
+ * Õ¨“Â¥ 
+ */
 public class LexiconToExplain {
 
 	public static void main(String[] args) throws Exception {
